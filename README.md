@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 JavaScript: Estudos | RESILIA </h1> 
+<h1 align="center"> JavaScript: Estudos </h1> 
 
 ![findingnemopgithub (2)](https://user-images.githubusercontent.com/101408372/165160320-145f469f-5096-44e2-bda1-a17fbc8bef9d.png)
 
@@ -12,6 +12,7 @@ JavaScript (às vezes abreviado para JS) é uma linguagem **leve, interpretada e
 - Aulas: Estudos pessoais; 
 - Curso: Lógica de programação com JavaScript;
 - Curso: JS completo; 
+- JavaScript Essêncial: Perguntas para teste técnico. 
 ### **Temas**; 
 - Operadores lógicos e aritiméticos; 
 - Arrow Function;
