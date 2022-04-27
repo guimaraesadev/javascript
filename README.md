@@ -1,6 +1,6 @@
 <h1 align="center"> Full JavaScript Skills</h1> 
 
-![findingnemopgithub (2)](https://user-images.githubusercontent.com/101408372/165160320-145f469f-5096-44e2-bda1-a17fbc8bef9d.png)
+![findingnemopgithub (5)](https://user-images.githubusercontent.com/101408372/165596555-8d6276d6-1587-422d-9cf2-696e23af19dc.png)
 
 
 ### **Sobre**;<br>
