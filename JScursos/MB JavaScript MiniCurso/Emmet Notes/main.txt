@@ -1,0 +1,5 @@
+Estudos sobre PRODUTIVIDADE no HTML com a extensão EMMET; 
+
+LINKS: 
+=> https://code.visualstudio.com/docs/editor/emmet
+=> https://blog.erikfigueiredo.com.br/o-que-e-emmet-e-como-ele-vai-adiantar-muito-o-seu-dia-a-dia-dica-rapida/
