@@ -1,2 +1,0 @@
-//tipos de saída JS: 
-document.getElementById //seleciona elementos no HTML pelo ID
