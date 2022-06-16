@@ -4,12 +4,14 @@
 
 </div>
 
-- javascript assíncrono;
-- objetos em javascript; 
-- forEach;
-- javascript funcional; 
-- javascript orientado à objetos; 
-- regex;
+<div align="center">Javascript: Inside</div>
+
+📦 Javascript Assíncrono ; <br>
+📦 Objetos; <br>
+📦 Javascript Funcional; 
+📦 Javascript Orientado à Objetos; 
+📦 Regex;
+
 
 
 
