@@ -4,13 +4,13 @@
 
 </div>
 
-<div align="center">Javascript: Inside</div>
+<div align="center"><strong>Javascript: Inside</strong></div>
 
 📦 Javascript Assíncrono ; <br>
 📦 Objetos; <br>
-📦 Javascript Funcional; 
-📦 Javascript Orientado à Objetos; 
-📦 Regex;
+📦 Javascript Funcional; <br>
+📦 Javascript Orientado à Objetos; <br>
+📦 Regex;<br>
 
 
 
