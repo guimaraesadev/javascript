@@ -28,3 +28,14 @@ O que é: <br>
 - Na versão ES2015 foi inserida a funcionalidade de Classes no Javascript; 
 - JS possui PROTOTYPES, isso faz com que todos os objetos tenham um pai; 
 - Além do seus objetos built-in como: Number, Boolean, Array, Object, Error e etc. 
+
+### Objeto: 
+- Um tipo de dado que possui duas caracteristicas; 
+- **Propriedade**: características do objeto; 
+- **Métodos**: ações do objeto; 
+- O *objeto* é a coisa principal na POO;
+
+### Como criar um objeto: 
+- No Javascript é possível criar um objeto abrindo e fechando chaves: *{}*;
+- O objeto parece com um array de chave e valor; 
+- Podemos atribuir um objeto à uma variável; 
